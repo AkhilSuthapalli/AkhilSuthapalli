@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @AkhilSuthapalli
-- 👀 I’m interested in python, app development
-- 🌱 I’m currently learning flutter
-
+- Hey, I'm Akhil
+- I like to work on complicated stuff
